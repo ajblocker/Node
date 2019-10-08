@@ -1,0 +1,60 @@
+[{ 
+    "employeeID": 1,
+    "name": "Sarah Moore",
+    "salary": 52000,
+    "department": "Sales"
+},
+{ 
+    "employeeID": 2,
+    "name": "Jake Lancaster",
+    "salary": 55000,
+    "department": "Agriculture"
+},
+{ 
+    "employeeID": 3,
+    "name": "Mark Smith",
+    "salary": 54000,
+    "department": "Sales"
+},
+{ 
+    "employeeID": 4,
+    "name": "Blake Griffen",
+    "salary": 69000,
+    "department": "Commerce"
+},
+{ 
+    "employeeID": 5,
+    "name": "Anna Paine",
+    "salary": 73000,
+    "department": "Defence"
+},
+{ 
+    "employeeID": 6,
+    "name": "Derrik Rose",
+    "salary": 43000,
+    "department": "Education"
+},
+{ 
+    "employeeID": 7,
+    "name": "Walt Disney",
+    "salary": 58000,
+    "department": "Energy"
+},
+{ 
+    "employeeID": 8,
+    "name": "Kim Possible",
+    "salary": 59000,
+    "department": "Health and Human Services"
+},
+{ 
+    "employeeID": 9,
+    "name": "Penny Lake",
+    "salary": 57000,
+    "department": "Homeland Security"
+},
+{ 
+    "employeeID": 10,
+    "name": "Luke Cage",
+    "salary": 55000,
+    "department": "Housing and Urban Development"
+}]
